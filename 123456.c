@@ -77,6 +77,7 @@ int main() {
             printf("Mossa non valida!\n");
         }
     }
+    printf("shsdhfh");
 
     // Stampa il punteggio finale
     printf("Gioco terminato. Punteggio finale: %d\n", playerScore);
